@@ -1,0 +1,16 @@
+D:\Projdev\Formation\Fac\Intelligence Artificielle\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.dll
+D:\Projdev\Formation\Fac\Intelligence Artificielle\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.pdb
+D:\Projdev\Formation\Fac\Intelligence Artificielle\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.xml
+D:\Projdev\Formation\Fac\Intelligence Artificielle\neuro_src\Sources\Neuro\bin\Debug\AForge.dll
+D:\Projdev\Formation\Fac\Intelligence Artificielle\neuro_src\Sources\Neuro\obj\Debug\Neuro.csprojResolveAssemblyReference.cache
+D:\Projdev\Formation\Fac\Intelligence Artificielle\neuro_src\Sources\Neuro\obj\Debug\AForge.Neuro.dll
+D:\Projdev\Formation\Fac\Intelligence Artificielle\neuro_src\Sources\Neuro\obj\Debug\AForge.Neuro.pdb
+D:\RecoLetters\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.dll
+D:\RecoLetters\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.pdb
+D:\RecoLetters\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.xml
+D:\RecoLetters\neuro_src\Sources\Neuro\bin\Debug\AForge.dll
+D:\RecoLetters\neuro_src\Sources\Neuro\obj\Debug\Neuro.csproj.AssemblyReference.cache
+D:\RecoLetters\neuro_src\Sources\Neuro\obj\Debug\Neuro.csproj.CoreCompileInputs.cache
+D:\RecoLetters\neuro_src\Sources\Neuro\obj\Debug\Neuro.csproj.CopyComplete
+D:\RecoLetters\neuro_src\Sources\Neuro\obj\Debug\AForge.Neuro.dll
+D:\RecoLetters\neuro_src\Sources\Neuro\obj\Debug\AForge.Neuro.pdb

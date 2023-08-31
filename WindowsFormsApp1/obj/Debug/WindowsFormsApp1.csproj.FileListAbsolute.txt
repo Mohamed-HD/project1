@@ -1,0 +1,16 @@
+E:\Machine_Learning_Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Machine_Learning_Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Machine_Learning_Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Machine_Learning_Project\WindowsFormsApp1\bin\Debug\AForge.Neuro.dll
+E:\Machine_Learning_Project\WindowsFormsApp1\bin\Debug\AForge.dll
+E:\Machine_Learning_Project\WindowsFormsApp1\bin\Debug\AForge.Neuro.pdb
+E:\Machine_Learning_Project\WindowsFormsApp1\bin\Debug\AForge.Neuro.xml
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Machine_Learning_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
